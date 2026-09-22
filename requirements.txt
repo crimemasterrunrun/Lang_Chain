@@ -1,0 +1,6 @@
+langchain-huggingface 
+python-dotenv 
+pandas 
+openpyxl 
+huggingface_hub
+streamlit
